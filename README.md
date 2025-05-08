@@ -32,7 +32,7 @@ vedika-finance-loan-analysis/
 └── requirements.txt # Libraries to install
 
 
-## 🔧 Data Cleaning & Quality Checks (5 Qs)
+## 🔧 Data Cleaning & Quality Checks  
 
 1. Missing values in credit bureau scores (CIBIL, Experian, Equifax)?
 2. Any customers aged <18 or >100?
@@ -42,7 +42,7 @@ vedika-finance-loan-analysis/
 
 ---
 
-## 📊 Descriptive Analysis (10 Qs)
+## 📊 Descriptive Analysis  
 
 - Average loan amount by type
 - Interest rate distribution by purpose
@@ -57,7 +57,7 @@ vedika-finance-loan-analysis/
 
 ---
 
-## 📉 Loan Performance Analysis (10 Qs)
+## 📉 Loan Performance Analysis 
 
 - % loans overdue > 30 days
 - Top defaulting Loan Officers
@@ -72,7 +72,7 @@ vedika-finance-loan-analysis/
 
 ---
 
-## 👥 Segmentation (5 Qs)
+## 👥 Segmentation  
 
 - Repayment behavior: 4 segments
 - Default by age group
@@ -82,7 +82,7 @@ vedika-finance-loan-analysis/
 
 ---
 
-## ⚠️ Risk Assessment (10 Qs)
+## ⚠️ Risk Assessment  
 
 - Default rate for CIBIL < 600
 - Debt-to-Income vs default correlation
@@ -97,7 +97,7 @@ vedika-finance-loan-analysis/
 
 ---
 
-## 💡 Customer Insights & Engagement (10 Qs)
+## 💡 Customer Insights & Engagement  
 
 - Best communication modes for repayment
 - Complaints vs overdue loans
